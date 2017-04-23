@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="35mm"
@@ -14,10 +15,55 @@
    viewBox="0 0 124.01575 35.433071"
    id="svg3338"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="logo.svg">
   <defs
-     id="defs3340" />
+     id="defs3340">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6012">
+      <stop
+         style="stop-color:#005c00;stop-opacity:1;"
+         offset="0"
+         id="stop6008" />
+      <stop
+         style="stop-color:#005c00;stop-opacity:0;"
+         offset="1"
+         id="stop6010" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6004">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6000" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6002" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6004"
+       id="radialGradient6006"
+       cx="83.523267"
+       cy="755.01634"
+       fx="83.523267"
+       fy="755.01634"
+       r="81.139915"
+       gradientTransform="matrix(1.0556065,0,0,0.11160777,-1.1842798,763.06762)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6012"
+       id="linearGradient6014"
+       x1="2.383226"
+       y1="755.01634"
+       x2="164.66331"
+       y2="755.01634"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,15 +72,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.52"
-     inkscape:cx="278.10753"
-     inkscape:cy="83.718883"
+     inkscape:cx="168.56806"
+     inkscape:cy="31.087304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3343">
@@ -44,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,15 +101,15 @@
      transform="translate(0,-1016.9291)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.31827354px;line-height:125%;font-family:Ani;-inkscape-font-specification:'Ani, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1.2398098"
-       y="847.82501"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.39733982px;line-height:0%;font-family:Ani;-inkscape-font-specification:'Ani, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#d40000;fill-opacity:1;stroke:url(#radialGradient6006);stroke-width:0.95004582;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="0.56287467"
+       y="855.57904"
        id="text3346"
-       sodipodi:linespacing="125%"
-       transform="scale(0.81248569,1.2307909)"><tspan
+       transform="scale(0.81894831,1.2210783)"><tspan
          sodipodi:role="line"
          id="tspan3348"
-         x="1.2398098"
-         y="847.82501">Gonzalo Chable</tspan></text>
+         x="0.56287467"
+         y="855.57904"
+         style="font-size:22.14719009px;line-height:1.25;fill:#d40000;fill-opacity:1;stroke:url(#radialGradient6006);stroke-width:0.95004582;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Gonzalo Chable</tspan></text>
   </g>
 </svg>
